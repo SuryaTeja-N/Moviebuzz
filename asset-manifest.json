@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviebuzz/static/css/main.3292250f.css",
+    "main.js": "/moviebuzz/static/js/main.349e4d0f.js",
+    "index.html": "/moviebuzz/index.html",
+    "static/media/search.svg": "/moviebuzz/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.3292250f.css.map": "/moviebuzz/static/css/main.3292250f.css.map",
+    "main.349e4d0f.js.map": "/moviebuzz/static/js/main.349e4d0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.349e4d0f.js"
+  ]
+}
