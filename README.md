@@ -1,2 +1,2 @@
 # Moviebuzz
-A website to show movies and their ratings. 
+A website to search movies and their details. 
